@@ -1,0 +1,5 @@
+List the external libraries your package depends on.
+
+
+pandas
+numpy
