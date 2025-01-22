@@ -1,4 +1,5 @@
 # Topsis-SarthakSachdeva-102203493
+
 A Python package to implement the TOPSIS method for multi-criteria decision-making.
 
 ## Installation
@@ -13,3 +14,6 @@ topsis("input.csv", "1,1,1,2", "+,+,-,+", "output.csv")
 
 License
 This project is licensed under the MIT License.
+
+A Python package for performing TOPSIS analysis
+
